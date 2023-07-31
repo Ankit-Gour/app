@@ -1,0 +1,18 @@
+#textBox{
+  width: 70vw;
+  margin: 10px auto;
+
+}
+#text{
+  width: 60vw;
+  height:200px;
+  display: flex;
+  justify-content: start;
+}
+#toUpperCase{
+  margin: 10px auto;
+  width:200px;
+  height: auto;
+  background-color: red;
+
+}
